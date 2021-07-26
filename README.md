@@ -2,7 +2,7 @@
 
 *TODO: [ADD_TASK_REQUIREMENTS_HERE]*
 
-Solution by [Sophie Lewis](mailto:sophie@codewithdragos.com)
+[Sophie Lewis](mailto:sophie@codewithdragos.com)
 
 ## Assumptions
 
@@ -13,6 +13,8 @@ Solution by [Sophie Lewis](mailto:sophie@codewithdragos.com)
 *TODO: [ADD_SOLUTION_DESCRIPTION]*
 - break down the steps you followed
 - use bullet points to explain it in a very structured way
+
+## Screenshots
 
 
 ## Libraries / Tools Used
