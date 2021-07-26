@@ -15,7 +15,7 @@
 - use bullet points to explain it in a very structured way
 
 ## Screenshots
-
+![alt text](screens/demo.png)
 
 ## Libraries / Tools Used
 
